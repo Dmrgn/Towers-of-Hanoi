@@ -1,0 +1,16 @@
+{
+  "name": "hanoi",
+  "version": "1.0.0",
+  "description": "Towers of Hanoi Simulation",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "Hanoi",
+    "puzzle"
+  ],
+  "type": "module",
+  "author": "Daniel Morgan",
+  "license": "MIT"
+}
